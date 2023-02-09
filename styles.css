@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, serif;
+    background-color: rgb(12, 12, 12);
+    text-align: center;
+  }
+
+#para,
+.list-align,
+.button,
+.header-style {
+    color: #f1f1f1;
+}
+
+.food-image.proportioned {
+    height: auto;
+    width: 400px
+}
+
+.unordered.list-align {
+    text-align: left;
+    font-weight: bold;
+}
+
+.list-align {
+    text-align: left;
+}
+
+.button {
+    background-color: white;
+}
+
+.link-size {
+    font-size: 22px;
+    color: white
+}
+
+#para{
+    text-align: left;
+}
+
+.h1 {
+    font-family: Helvetica, serif;
+}
+
+.h2 {
+    font-family: Helvetica, serif;
+}
+
